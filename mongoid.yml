@@ -1,0 +1,8 @@
+---
+clients:
+  default:
+    database: replica_set
+    hosts:
+      - "Antoines-MacBook-Pro.local:27018"
+    options:
+      replica_set: rs1
